@@ -1,4 +1,4 @@
-![Figure_1](https://github.com/nielknauan/Pandas_Dollar_Analysis/assets/116109992/b31bb0e9-3120-4862-8a93-e3a7b36b09b5)# Pandas_Dollar_Analysis
+# Pandas_Dollar_Analysis
 
 Análise da Cotação do Dólar usando Pandas e Matplotlib
 
